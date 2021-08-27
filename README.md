@@ -1,6 +1,9 @@
-# Hi I'm Esaú 👋
+## Hi I'm Esaú 👋
 
-I'm a software developer in a financial world. Making a better 🇲🇽 one line at a time.
+I'm a software engineer in a financial world. Making a better 🇲🇽 one line at a time.
+
+[![Website](https://img.shields.io/website?label=esauortega.com&style=for-the-badge&url=https%3A%2F%2Fesauortega.com)](https://esauortega.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/esauOp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FesauOp&screen_name=esauOp)
 
 <!--
 **esauOp/esauop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,12 +15,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-## ⭐️ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/esauop">
