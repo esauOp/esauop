@@ -1,7 +1,11 @@
 ## Hi I'm Esaú 👋
 
-[![Website](https://img.shields.io/website?label=esauortega.com&style=for-the-badge&url=https%3A%2F%2Fesauortega.com)](https://esauortega.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/esauOp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FesauOp&screen_name=esauOp)
+<p align="center">
+  <a href="https://www.esauortega.comm"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/esauop/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/esauop"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/esauop/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 
 I'm a Husband, Father, Developer. Making a better 🇲🇽 one line at a time.
 
