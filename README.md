@@ -1,7 +1,7 @@
 ## Hi I'm Esaú 👋
 
-<p align="center">
-  <a href="https://www.esauortega.comm"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
+<p align="left">
+  <a href="https://www.esauortega.com"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/esauop/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/esauop"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/esauop/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
