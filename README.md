@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/1d11s820dgm91.gif">
-
 ## 🛠️ Tech Stack
 
 ### 👾 Programming Languages
@@ -44,6 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/1d11s820dgm91.gif">
 
 ### ⚙️ Backend Development
 <div align="left">
