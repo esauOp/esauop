@@ -14,8 +14,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/1d11s820dgm91.gif">
-
 ### 👨🏽‍💻 About Me
 - 🔭 I'm currently working on **awesome projects**
 - 🌱 I'm currently learning **Artificial Intelligence**
@@ -24,6 +22,8 @@
 - ⚡ Fun fact: **I love pixel art and retro games!**
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/1d11s820dgm91.gif">
 
 ## 🛠️ Tech Stack
 
