@@ -1,8 +1,12 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Esaú
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+
+</p align="center">
+<img src="https://github.com/esauop/esauop/blob/main/images/main.png" />
 
 
 <div align="center">
-  
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/esauop)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esauop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esauop/)
@@ -95,7 +99,7 @@
 </p>
 
 <div align="center">
-  
+
 </div>
 
 <div align="center">
