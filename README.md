@@ -2,7 +2,7 @@
 <p align="center">
 
 </p align="center">
-<img src="https://github.com/esauop/esauop/blob/main/images/main.png" />
+<img src="https://github.com/esauop/esauop/blob/main/images/main.png" width="800"/>
 
 
 <div align="center">
