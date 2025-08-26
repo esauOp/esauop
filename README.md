@@ -15,6 +15,7 @@
 </div>
 
 ### 👨🏽‍💻 About Me
+
 - 🔭 I'm currently working on **awesome projects**
 - 🌱 I'm currently learning **Artificial Intelligence**
 - 💬 Ask me about **Angular, React, NextJs**
@@ -73,7 +74,7 @@
 
 ### 🌐 Static Site Generators
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="nextjs" width="40" height="40"/>
 </div>
 
 ### 🤖 Automation
@@ -89,7 +90,12 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=esauop&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
 <p align="center">
   <a href="https://github.com/esauop">
@@ -102,20 +108,6 @@
 
 </div>
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=esauop&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
----
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esauop&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%">
